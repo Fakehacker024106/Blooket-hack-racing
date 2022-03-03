@@ -1,2 +1,3 @@
 # Blooket-hack-racing
-Racing hack copy to gliz in https://schoolcheats.net/blooket/
+Racing hack copy to gliz only, other hacks:
+https://github.com/Fakehacker024106/Blooket-hack-global
